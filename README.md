@@ -1,7 +1,7 @@
 # `🧿 𝚃𝚑𝚎 Corona - 𝙱𝚘𝚝 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/34666936886" target="blank"><img src="https://img.shields.io/badge/EIDERFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/34666936886" target="blank"><img src="https://img.shields.io/badge/EIDERFC_CREADORA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
