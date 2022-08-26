@@ -1,0 +1,18 @@
+{
+  "name": "Corona-Bot-MD",
+  "description": "Subscribete a ZDaPlaY y únete al server de Minecraft Cuarentena de Frikis (≧▽≦)",
+  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "logo": "https://i.imgur.com/8EUjxBN.jpeg",
+  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
+  "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },
+  {
+    "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+  }    
+ ]
+}
